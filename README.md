@@ -2,25 +2,28 @@
 
 Remote human-review copies only. **Not** KDP publish approval. Capital: $0.
 
-## book_003 — WHAT TO REVIEW NOW (style v2 samples)
+## book_003 — REVIEW THIS NOW (v3)
 
-Owner asked for **thicker lines + simpler toddler shapes**. Approve or reject this style before the full book is rebuilt.
+Working title: **Little One's: Little Driver Vehicle Coloring Book**
 
-Open folder: [book_003_style_v2_samples](book_003_style_v2_samples/)
+Owner feedback applied:
+- Simple **background setting** on each page
+- **Bubble-letter** vehicle name at bottom (colorable)
+- Series title prefix **Little One's:**
 
-| Sample | Preview |
-|--------|---------|
-| Dump truck | ![dump](book_003_style_v2_samples/01_dump_truck.png) |
-| Tractor | ![tractor](book_003_style_v2_samples/02_tractor.png) |
-| Fire truck | ![fire](book_003_style_v2_samples/03_fire_truck.png) |
-| School bus | ![bus](book_003_style_v2_samples/04_school_bus.png) |
+### Samples
+Folder: [book_003_style_v3_bg_labels](book_003_style_v3_bg_labels/)
 
-**Reply in chat:** approve this style for full 36-page rebuild / even thicker / more detail / other notes.
+| Page | Preview |
+|------|---------|
+| Title page | ![title](book_003_style_v3_bg_labels/05_title_page_little_ones.png) |
+| TRUCK | ![truck](book_003_style_v3_bg_labels/01_truck_bg_bubble.png) |
+| TRACTOR | ![tractor](book_003_style_v3_bg_labels/02_tractor_bg_bubble.png) |
+| FIRE TRUCK | ![fire](book_003_style_v3_bg_labels/03_firetruck_bg_bubble.png) |
+| BUS | ![bus](book_003_style_v3_bg_labels/04_bus_bg_bubble.png) |
 
-## book_003 — prior full draft (v1 Cursor art, may be superseded)
+**Reply in chat:** approve v3 for full 36-page rebuild / tweak title / change label style (e.g. "This is a truck" instead of bubble word) / other notes.
 
-Full interior PDF (36 pages, earlier Cursor style — **not** the thicker/simpler v2 yet):
-
-- [interior_draft.pdf](book_003_VALIDATE_vehicles/interior_draft.pdf)
-
-Cover not built. RTX 3060 not used for these images.
+## Older drafts (superseded for style decision)
+- [v2 thicker/simpler samples](book_003_style_v2_samples/) — no backgrounds/labels
+- [Full v1 Cursor PDF](book_003_VALIDATE_vehicles/interior_draft.pdf) — will be rebuilt after v3 approval
