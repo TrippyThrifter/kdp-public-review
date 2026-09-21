@@ -1,25 +1,31 @@
 ﻿# KDP public review artifacts
 
-Temporary **public** holding area for human visual review.
-Not a KDP publish authorization. Capital spent: $0.
+Public human-review copies only. **Not** KDP publish authorization. Capital: $0.
 
-## book_003 — VALIDATE trucks draft (superseding concept)
+## book_003 — Toddler vehicles VALIDATE (current)
 
-GitHub does not reliably preview PDFs inline. Use the PNG previews below, or download the PDF.
+**Concept:** cars, trucks, tractors, buses, and other common vehicles for ages 2–4. Thick outlines, one subject per page, no logos/brands.
 
-### Preview pages
-![page 01](book_003_VALIDATE_trucks_draft/page_01.png)
-![page 02](book_003_VALIDATE_trucks_draft/page_02.png)
-![page 03](book_003_VALIDATE_trucks_draft/page_03.png)
-![page 04](book_003_VALIDATE_trucks_draft/page_04.png)
-![page 05](book_003_VALIDATE_trucks_draft/page_05.png)
-![page 06](book_003_VALIDATE_trucks_draft/page_06.png)
-![page 07](book_003_VALIDATE_trucks_draft/page_07.png)
-![page 08](book_003_VALIDATE_trucks_draft/page_08.png)
-![page 16](book_003_VALIDATE_trucks_draft/page_16.png)
+### Preview pages (GitHub shows these inline)
+![p01](book_003_VALIDATE_vehicles/page_01.png)
+![p02](book_003_VALIDATE_vehicles/page_02.png)
+![p03](book_003_VALIDATE_vehicles/page_03.png)
+![p04](book_003_VALIDATE_vehicles/page_04.png)
+![p05](book_003_VALIDATE_vehicles/page_05.png)
+![p06](book_003_VALIDATE_vehicles/page_06.png)
+![p07](book_003_VALIDATE_vehicles/page_07.png)
+![p08](book_003_VALIDATE_vehicles/page_08.png)
+![p09](book_003_VALIDATE_vehicles/page_09.png)
+![p10](book_003_VALIDATE_vehicles/page_10.png)
+![p15](book_003_VALIDATE_vehicles/page_15.png)
+![p20](book_003_VALIDATE_vehicles/page_20.png)
+![p25](book_003_VALIDATE_vehicles/page_25.png)
+![p30](book_003_VALIDATE_vehicles/page_30.png)
 
-### PDF
-[Download interior_draft.pdf](book_003_VALIDATE_trucks_draft/interior_draft.pdf)
+### PDF download
+[interior_draft.pdf](book_003_VALIDATE_vehicles/interior_draft.pdf)
 
-### Status
-Owner is pivoting primary VALIDATE concept to **common animals + babies** (adult page with word, then baby page with baby word). Truck draft kept here only for craft reference.
+### Notes
+- Draft programmatic line art for VALIDATE speed — not final illustration quality
+- Cover not built yet
+- Adult/baby animals concept parked for a later title
