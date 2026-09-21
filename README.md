@@ -27,3 +27,8 @@ Folder: [book_003_style_v3_bg_labels](book_003_style_v3_bg_labels/)
 ## Older drafts (superseded for style decision)
 - [v2 thicker/simpler samples](book_003_style_v2_samples/) — no backgrounds/labels
 - [Full v1 Cursor PDF](book_003_VALIDATE_vehicles/interior_draft.pdf) — will be rebuilt after v3 approval
+
+## Page count (locked)
+- Target **~64 pages** (POS / shelf appeal — not the earlier 36-page draft count)
+- Content/coloring through ~page 59
+- Pages **60–63 blank**; page **64 printing info**
