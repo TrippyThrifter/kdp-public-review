@@ -1,0 +1,43 @@
+{
+  "book": "book_003",
+  "title": "Little One's Little Driver Vehicle Coloring Book",
+  "status": "KDP-READY \u2014 AWAITING HUMAN QA",
+  "uploaded_to_kdp": false,
+  "publish_approved": false,
+  "capital_spent_usd": 0,
+  "created_utc": "2026-09-21T16:31:57.076796+00:00",
+  "trim_in": [
+    8.5,
+    11.0
+  ],
+  "bleed_in": 0.125,
+  "paper": "white",
+  "interior": {
+    "path": "C:\\KDP_Book_Store\\books\\book_003\\output\\book_003_Little_Driver_v3_64pp_DRAFT.pdf",
+    "pages": 64,
+    "page_size_in": [
+      8.5,
+      11.0
+    ],
+    "bytes": 27642359
+  },
+  "cover": {
+    "wrap_pdf": "C:\\KDP_Book_Store\\books\\book_003\\cover\\production\\book_003_kdp_cover_wrap.pdf",
+    "wrap_png": "C:\\KDP_Book_Store\\books\\book_003\\cover\\production\\cover_wrap_300dpi.png",
+    "master": "C:\\KDP_Book_Store\\books\\book_003\\cover\\source\\APPROVED_COVER_WRAP_MASTER.png",
+    "owner_approved": true,
+    "effective_dpi_note": "~88 from source master; owner accepted wrap 2026-09-21"
+  },
+  "human_checklist": [
+    "Open cover_wrap_kdp.pdf \u2014 confirm full bleed, no blank bands",
+    "Confirm barcode-safe rectangle still empty",
+    "Confirm tractor has no eyes on windshield",
+    "Open interior_64pp.pdf \u2014 confirm 64 pages, labels, backgrounds",
+    "Approve publish explicitly before any KDP upload"
+  ],
+  "do_not": [
+    "Do not upload to KDP without explicit owner publish approval",
+    "Do not spend money without approval",
+    "Do not regenerate approved wrap artwork"
+  ]
+}
