@@ -69,7 +69,7 @@ https://github.com/TrippyThrifter/kdp-public-review/tree/main/book_004_Little_Bu
 
 FINAL mirror path in that folder: `FINAL/`
 
-## Pre-publish QA flag (agent)
-- Pages **27–58** (Cursor GenerateImage) were generated landscape and letterboxed onto portrait 8.5×11 — art only fills ~40–45% of page height with large white bands top/bottom. Pages **3–26** (ChatGPT) fill the page normally (~93% height).
-- **Recommend:** regenerate 27–58 in true portrait (3:4) before KDP upload, or owner may accept if intentional "easy coloring" framing.
-- No KDP upload until owner signs off.
+## Update 2026-09-21 evening — pages 27–58 remount
+Cursor GenerateImage cannot emit true portrait (always 1280×720). Cover-crop clipped bubble labels.
+**Fix applied:** remounted each landscape master into full 8.5×11 with vehicle filling the upper area and the **full noun strip** preserved at the bottom (no letterbox bands, labels intact).
+Interior PDF refreshed: `Little_Ones_Little_Builder_INTERIOR_64pp.pdf`
