@@ -1,0 +1,43 @@
+{
+  "status": "PAGE2_BW_MASTER_INTEGRATED \u2014 AWAITING HUMAN VISUAL CONFIRM",
+  "qa_suite": "PASS_AUTOMATED + HUMAN_VERIFY_EYES_TEXT",
+  "checks": {
+    "pure_black_and_white": "PASS",
+    "portrait_8_5x11_300dpi": "PASS",
+    "pdf_page_count_64": "PASS",
+    "pdf_page_size_pt": [
+      612.0,
+      792.0
+    ],
+    "margins_half_inch": "PASS",
+    "upscaled_fill": "PASS",
+    "substantial_ink": "PASS",
+    "ink_ratio": 0.09221437908496732,
+    "no_barcode": "PASS",
+    "cover_untouched": "PASS",
+    "other_interior_untouched": "PASS",
+    "belongs_to_name_line": "HUMAN_VERIFY",
+    "required_text_present": "HUMAN_VERIFY",
+    "tractor_exactly_two_eyes": "HUMAN_VERIFY"
+  },
+  "fit": {
+    "source_px": [
+      1024,
+      1536
+    ],
+    "fitted_px": [
+      2000,
+      3000
+    ],
+    "offset_xy": [
+      275,
+      150
+    ],
+    "scale": 1.953125,
+    "margin_in": 0.5,
+    "eff_dpi_at_print": 153.6
+  },
+  "page2": "C:\\KDP_Book_Store\\books\\book_003\\artwork\\production\\page_002_thankyou_copyright_ai.png",
+  "pdf": "C:\\KDP_Book_Store\\books\\book_003\\output\\book_003_Little_Driver_v3_64pp_DRAFT.pdf",
+  "updated_utc": "2026-09-21T17:21:29.182145+00:00"
+}
