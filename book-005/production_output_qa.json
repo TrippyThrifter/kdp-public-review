@@ -1,0 +1,1344 @@
+{
+  "generated_at": "2026-09-22T05:52:38.077073+00:00",
+  "book_id": "book_005",
+  "automated_ok": true,
+  "interior_automated_ok": true,
+  "overall_status": "PASS",
+  "failures": [],
+  "raster": {
+    "ok": true,
+    "page_count": 64,
+    "checks": [
+      {
+        "page": 1,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_001.png",
+        "ok": true,
+        "ink_fraction": 0.051752,
+        "safe_ink_fraction": 0.064517,
+        "errors": []
+      },
+      {
+        "page": 2,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_002.png",
+        "ok": true,
+        "ink_fraction": 0.030244,
+        "safe_ink_fraction": 0.037705,
+        "errors": []
+      },
+      {
+        "page": 3,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_003.png",
+        "ok": true,
+        "ink_fraction": 0.073301,
+        "safe_ink_fraction": 0.091382,
+        "errors": []
+      },
+      {
+        "page": 4,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_004.png",
+        "ok": true,
+        "ink_fraction": 0.067342,
+        "safe_ink_fraction": 0.083953,
+        "errors": []
+      },
+      {
+        "page": 5,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_005.png",
+        "ok": true,
+        "ink_fraction": 0.090937,
+        "safe_ink_fraction": 0.113368,
+        "errors": []
+      },
+      {
+        "page": 6,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_006.png",
+        "ok": true,
+        "ink_fraction": 0.092671,
+        "safe_ink_fraction": 0.11553,
+        "errors": []
+      },
+      {
+        "page": 7,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_007.png",
+        "ok": true,
+        "ink_fraction": 0.073444,
+        "safe_ink_fraction": 0.09156,
+        "errors": []
+      },
+      {
+        "page": 8,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_008.png",
+        "ok": true,
+        "ink_fraction": 0.088947,
+        "safe_ink_fraction": 0.110887,
+        "errors": []
+      },
+      {
+        "page": 9,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_009.png",
+        "ok": true,
+        "ink_fraction": 0.101211,
+        "safe_ink_fraction": 0.126176,
+        "errors": []
+      },
+      {
+        "page": 10,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_010.png",
+        "ok": true,
+        "ink_fraction": 0.071538,
+        "safe_ink_fraction": 0.089184,
+        "errors": []
+      },
+      {
+        "page": 11,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_011.png",
+        "ok": true,
+        "ink_fraction": 0.080437,
+        "safe_ink_fraction": 0.100278,
+        "errors": []
+      },
+      {
+        "page": 12,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_012.png",
+        "ok": true,
+        "ink_fraction": 0.080354,
+        "safe_ink_fraction": 0.100175,
+        "errors": []
+      },
+      {
+        "page": 13,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_013.png",
+        "ok": true,
+        "ink_fraction": 0.081317,
+        "safe_ink_fraction": 0.101375,
+        "errors": []
+      },
+      {
+        "page": 14,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_014.png",
+        "ok": true,
+        "ink_fraction": 0.069903,
+        "safe_ink_fraction": 0.087145,
+        "errors": []
+      },
+      {
+        "page": 15,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_015.png",
+        "ok": true,
+        "ink_fraction": 0.073697,
+        "safe_ink_fraction": 0.091876,
+        "errors": []
+      },
+      {
+        "page": 16,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_016.png",
+        "ok": true,
+        "ink_fraction": 0.096089,
+        "safe_ink_fraction": 0.119791,
+        "errors": []
+      },
+      {
+        "page": 17,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_017.png",
+        "ok": true,
+        "ink_fraction": 0.094685,
+        "safe_ink_fraction": 0.11804,
+        "errors": []
+      },
+      {
+        "page": 18,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_018.png",
+        "ok": true,
+        "ink_fraction": 0.06434,
+        "safe_ink_fraction": 0.080211,
+        "errors": []
+      },
+      {
+        "page": 19,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_019.png",
+        "ok": true,
+        "ink_fraction": 0.086245,
+        "safe_ink_fraction": 0.107519,
+        "errors": []
+      },
+      {
+        "page": 20,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_020.png",
+        "ok": true,
+        "ink_fraction": 0.092784,
+        "safe_ink_fraction": 0.115671,
+        "errors": []
+      },
+      {
+        "page": 21,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_021.png",
+        "ok": true,
+        "ink_fraction": 0.076475,
+        "safe_ink_fraction": 0.095339,
+        "errors": []
+      },
+      {
+        "page": 22,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_022.png",
+        "ok": true,
+        "ink_fraction": 0.068656,
+        "safe_ink_fraction": 0.085591,
+        "errors": []
+      },
+      {
+        "page": 23,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_023.png",
+        "ok": true,
+        "ink_fraction": 0.071665,
+        "safe_ink_fraction": 0.089343,
+        "errors": []
+      },
+      {
+        "page": 24,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_024.png",
+        "ok": true,
+        "ink_fraction": 0.057775,
+        "safe_ink_fraction": 0.072026,
+        "errors": []
+      },
+      {
+        "page": 25,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_025.png",
+        "ok": true,
+        "ink_fraction": 0.080232,
+        "safe_ink_fraction": 0.100023,
+        "errors": []
+      },
+      {
+        "page": 26,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_026.png",
+        "ok": true,
+        "ink_fraction": 0.089465,
+        "safe_ink_fraction": 0.111533,
+        "errors": []
+      },
+      {
+        "page": 27,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_027.png",
+        "ok": true,
+        "ink_fraction": 0.087449,
+        "safe_ink_fraction": 0.109019,
+        "errors": []
+      },
+      {
+        "page": 28,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_028.png",
+        "ok": true,
+        "ink_fraction": 0.111195,
+        "safe_ink_fraction": 0.138624,
+        "errors": []
+      },
+      {
+        "page": 29,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_029.png",
+        "ok": true,
+        "ink_fraction": 0.080707,
+        "safe_ink_fraction": 0.100615,
+        "errors": []
+      },
+      {
+        "page": 30,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_030.png",
+        "ok": true,
+        "ink_fraction": 0.101288,
+        "safe_ink_fraction": 0.126273,
+        "errors": []
+      },
+      {
+        "page": 31,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_031.png",
+        "ok": true,
+        "ink_fraction": 0.07644,
+        "safe_ink_fraction": 0.095295,
+        "errors": []
+      },
+      {
+        "page": 32,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_032.png",
+        "ok": true,
+        "ink_fraction": 0.064649,
+        "safe_ink_fraction": 0.080596,
+        "errors": []
+      },
+      {
+        "page": 33,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_033.png",
+        "ok": true,
+        "ink_fraction": 0.081151,
+        "safe_ink_fraction": 0.101168,
+        "errors": []
+      },
+      {
+        "page": 34,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_034.png",
+        "ok": true,
+        "ink_fraction": 0.082174,
+        "safe_ink_fraction": 0.102443,
+        "errors": []
+      },
+      {
+        "page": 35,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_035.png",
+        "ok": true,
+        "ink_fraction": 0.098628,
+        "safe_ink_fraction": 0.122956,
+        "errors": []
+      },
+      {
+        "page": 36,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_036.png",
+        "ok": true,
+        "ink_fraction": 0.109158,
+        "safe_ink_fraction": 0.136084,
+        "errors": []
+      },
+      {
+        "page": 37,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_037.png",
+        "ok": true,
+        "ink_fraction": 0.082261,
+        "safe_ink_fraction": 0.102552,
+        "errors": []
+      },
+      {
+        "page": 38,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_038.png",
+        "ok": true,
+        "ink_fraction": 0.094262,
+        "safe_ink_fraction": 0.117514,
+        "errors": []
+      },
+      {
+        "page": 39,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_039.png",
+        "ok": true,
+        "ink_fraction": 0.061384,
+        "safe_ink_fraction": 0.076526,
+        "errors": []
+      },
+      {
+        "page": 40,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_040.png",
+        "ok": true,
+        "ink_fraction": 0.089951,
+        "safe_ink_fraction": 0.112139,
+        "errors": []
+      },
+      {
+        "page": 41,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_041.png",
+        "ok": true,
+        "ink_fraction": 0.064566,
+        "safe_ink_fraction": 0.080492,
+        "errors": []
+      },
+      {
+        "page": 42,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_042.png",
+        "ok": true,
+        "ink_fraction": 0.071236,
+        "safe_ink_fraction": 0.088807,
+        "errors": []
+      },
+      {
+        "page": 43,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_043.png",
+        "ok": true,
+        "ink_fraction": 0.073805,
+        "safe_ink_fraction": 0.092011,
+        "errors": []
+      },
+      {
+        "page": 44,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_044.png",
+        "ok": true,
+        "ink_fraction": 0.06232,
+        "safe_ink_fraction": 0.077693,
+        "errors": []
+      },
+      {
+        "page": 45,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_045.png",
+        "ok": true,
+        "ink_fraction": 0.088584,
+        "safe_ink_fraction": 0.110435,
+        "errors": []
+      },
+      {
+        "page": 46,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_046.png",
+        "ok": true,
+        "ink_fraction": 0.082299,
+        "safe_ink_fraction": 0.102599,
+        "errors": []
+      },
+      {
+        "page": 47,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_047.png",
+        "ok": true,
+        "ink_fraction": 0.076686,
+        "safe_ink_fraction": 0.095602,
+        "errors": []
+      },
+      {
+        "page": 48,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_048.png",
+        "ok": true,
+        "ink_fraction": 0.074303,
+        "safe_ink_fraction": 0.092631,
+        "errors": []
+      },
+      {
+        "page": 49,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_049.png",
+        "ok": true,
+        "ink_fraction": 0.070713,
+        "safe_ink_fraction": 0.088156,
+        "errors": []
+      },
+      {
+        "page": 50,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_050.png",
+        "ok": true,
+        "ink_fraction": 0.103125,
+        "safe_ink_fraction": 0.128562,
+        "errors": []
+      },
+      {
+        "page": 51,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_051.png",
+        "ok": true,
+        "ink_fraction": 0.091622,
+        "safe_ink_fraction": 0.114222,
+        "errors": []
+      },
+      {
+        "page": 52,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_052.png",
+        "ok": true,
+        "ink_fraction": 0.108611,
+        "safe_ink_fraction": 0.135402,
+        "errors": []
+      },
+      {
+        "page": 53,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_053.png",
+        "ok": true,
+        "ink_fraction": 0.08659,
+        "safe_ink_fraction": 0.107948,
+        "errors": []
+      },
+      {
+        "page": 54,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_054.png",
+        "ok": true,
+        "ink_fraction": 0.062481,
+        "safe_ink_fraction": 0.077893,
+        "errors": []
+      },
+      {
+        "page": 55,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_055.png",
+        "ok": true,
+        "ink_fraction": 0.06834,
+        "safe_ink_fraction": 0.085197,
+        "errors": []
+      },
+      {
+        "page": 56,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_056.png",
+        "ok": true,
+        "ink_fraction": 0.066366,
+        "safe_ink_fraction": 0.082737,
+        "errors": []
+      },
+      {
+        "page": 57,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_057.png",
+        "ok": true,
+        "ink_fraction": 0.097987,
+        "safe_ink_fraction": 0.122157,
+        "errors": []
+      },
+      {
+        "page": 58,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_058.png",
+        "ok": true,
+        "ink_fraction": 0.084463,
+        "safe_ink_fraction": 0.105297,
+        "errors": []
+      },
+      {
+        "page": 59,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_059.png",
+        "ok": true,
+        "ink_fraction": 0.0,
+        "safe_ink_fraction": 0.0,
+        "errors": []
+      },
+      {
+        "page": 60,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_060.png",
+        "ok": true,
+        "ink_fraction": 0.0,
+        "safe_ink_fraction": 0.0,
+        "errors": []
+      },
+      {
+        "page": 61,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_061.png",
+        "ok": true,
+        "ink_fraction": 0.0,
+        "safe_ink_fraction": 0.0,
+        "errors": []
+      },
+      {
+        "page": 62,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_062.png",
+        "ok": true,
+        "ink_fraction": 0.0,
+        "safe_ink_fraction": 0.0,
+        "errors": []
+      },
+      {
+        "page": 63,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_063.png",
+        "ok": true,
+        "ink_fraction": 0.0,
+        "safe_ink_fraction": 0.0,
+        "errors": []
+      },
+      {
+        "page": 64,
+        "path": "C:\\KDP_Book_Store\\books\\book_005\\composed\\page_064.png",
+        "ok": true,
+        "ink_fraction": 0.007987,
+        "safe_ink_fraction": 0.009957,
+        "errors": []
+      }
+    ]
+  },
+  "pdf": {
+    "ok": true,
+    "path": "C:\\KDP_Book_Store\\books\\book_005\\output\\Little_Ones_Little_Ocean_INTERIOR_64pp.pdf",
+    "page_count": 64,
+    "sizes_in": [
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ],
+      [
+        8.5,
+        11.0
+      ]
+    ],
+    "sha256": "17a60091bf7f3f36f46295c26c6d6ccd772da742aeced1103bff8cacdac0d977",
+    "bytes": 86847675,
+    "errors": []
+  },
+  "cover": {
+    "ok": true,
+    "pdf": {
+      "ok": true,
+      "path": "C:\\KDP_Book_Store\\books\\book_005\\cover\\production\\book_005_kdp_cover_wrap.pdf",
+      "page_count": 1,
+      "sizes_in": [
+        [
+          17.394124,
+          11.25
+        ]
+      ],
+      "sha256": "3b304917e6500338d7427d6065ea50e41172dc2fc99fa076a776225c3cbd004a",
+      "bytes": 16841494,
+      "errors": []
+    },
+    "raster": {
+      "dimensions": [
+        5218,
+        3375
+      ],
+      "mode": "RGB",
+      "channel_stddev": [
+        80.806,
+        55.577,
+        74.578
+      ],
+      "sha256": "116e2ec10973c72b0b9c3939d08b3c8e396dee01ff80fbfbc93a369c43c095f7"
+    },
+    "errors": []
+  },
+  "page_metrics": [
+    {
+      "page": 1,
+      "mean_luma": 243.4181,
+      "stddev_luma": 50.4004,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.06088,
+      "name_region_ink": 0.071481
+    },
+    {
+      "page": 2,
+      "mean_luma": 248.5211,
+      "stddev_luma": 37.0456,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.014406,
+      "name_region_ink": 0.081648
+    },
+    {
+      "page": 3,
+      "mean_luma": 239.1245,
+      "stddev_luma": 57.0406,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.072799,
+      "name_region_ink": 0.123516
+    },
+    {
+      "page": 4,
+      "mean_luma": 240.4437,
+      "stddev_luma": 54.8711,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.084773,
+      "name_region_ink": 0.049291
+    },
+    {
+      "page": 5,
+      "mean_luma": 235.4617,
+      "stddev_luma": 62.0442,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.076951,
+      "name_region_ink": 0.09093
+    },
+    {
+      "page": 6,
+      "mean_luma": 235.2412,
+      "stddev_luma": 62.5093,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.093623,
+      "name_region_ink": 0.039375
+    },
+    {
+      "page": 7,
+      "mean_luma": 239.2347,
+      "stddev_luma": 56.5719,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.076265,
+      "name_region_ink": 0.039507
+    },
+    {
+      "page": 8,
+      "mean_luma": 236.1036,
+      "stddev_luma": 61.3412,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.09879,
+      "name_region_ink": 0.106846
+    },
+    {
+      "page": 9,
+      "mean_luma": 232.9509,
+      "stddev_luma": 66.4702,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.121902,
+      "name_region_ink": 0.090342
+    },
+    {
+      "page": 10,
+      "mean_luma": 240.1371,
+      "stddev_luma": 54.0805,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.086319,
+      "name_region_ink": 0.074137
+    },
+    {
+      "page": 11,
+      "mean_luma": 237.4376,
+      "stddev_luma": 59.9471,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.070663,
+      "name_region_ink": 0.049646
+    },
+    {
+      "page": 12,
+      "mean_luma": 237.4943,
+      "stddev_luma": 59.8605,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.08181,
+      "name_region_ink": 0.077385
+    },
+    {
+      "page": 13,
+      "mean_luma": 237.7278,
+      "stddev_luma": 58.7848,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.111844,
+      "name_region_ink": 0.070373
+    },
+    {
+      "page": 14,
+      "mean_luma": 240.1781,
+      "stddev_luma": 54.8678,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.089181,
+      "name_region_ink": 0.066279
+    },
+    {
+      "page": 15,
+      "mean_luma": 239.4326,
+      "stddev_luma": 55.8079,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.066311,
+      "name_region_ink": 0.087254
+    },
+    {
+      "page": 16,
+      "mean_luma": 234.5402,
+      "stddev_luma": 63.4477,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.081004,
+      "name_region_ink": 0.058709
+    },
+    {
+      "page": 17,
+      "mean_luma": 233.9466,
+      "stddev_luma": 65.5602,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.107993,
+      "name_region_ink": 0.066783
+    },
+    {
+      "page": 18,
+      "mean_luma": 241.3061,
+      "stddev_luma": 52.9795,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.044734,
+      "name_region_ink": 0.054028
+    },
+    {
+      "page": 19,
+      "mean_luma": 236.7679,
+      "stddev_luma": 59.5975,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.05794,
+      "name_region_ink": 0.103447
+    },
+    {
+      "page": 20,
+      "mean_luma": 235.02,
+      "stddev_luma": 62.4802,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.088564,
+      "name_region_ink": 0.110808
+    },
+    {
+      "page": 21,
+      "mean_luma": 238.2003,
+      "stddev_luma": 58.8144,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.087635,
+      "name_region_ink": 0.079417
+    },
+    {
+      "page": 22,
+      "mean_luma": 240.5207,
+      "stddev_luma": 54.0227,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.087764,
+      "name_region_ink": 0.047102
+    },
+    {
+      "page": 23,
+      "mean_luma": 239.0423,
+      "stddev_luma": 57.9004,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.065293,
+      "name_region_ink": 0.053303
+    },
+    {
+      "page": 24,
+      "mean_luma": 242.5186,
+      "stddev_luma": 50.3978,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.092877,
+      "name_region_ink": 0.046639
+    },
+    {
+      "page": 25,
+      "mean_luma": 237.9253,
+      "stddev_luma": 58.4062,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.101668,
+      "name_region_ink": 0.069707
+    },
+    {
+      "page": 26,
+      "mean_luma": 234.6756,
+      "stddev_luma": 65.4043,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.10443,
+      "name_region_ink": 0.074985
+    },
+    {
+      "page": 27,
+      "mean_luma": 237.4775,
+      "stddev_luma": 57.6649,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.051862,
+      "name_region_ink": 0.03687
+    },
+    {
+      "page": 28,
+      "mean_luma": 232.8962,
+      "stddev_luma": 63.6856,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.141214,
+      "name_region_ink": 0.063855
+    },
+    {
+      "page": 29,
+      "mean_luma": 237.9651,
+      "stddev_luma": 58.0252,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.064989,
+      "name_region_ink": 0.092193
+    },
+    {
+      "page": 30,
+      "mean_luma": 233.7839,
+      "stddev_luma": 64.0841,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.074534,
+      "name_region_ink": 0.129483
+    },
+    {
+      "page": 31,
+      "mean_luma": 238.7976,
+      "stddev_luma": 57.0283,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.087201,
+      "name_region_ink": 0.072239
+    },
+    {
+      "page": 32,
+      "mean_luma": 242.191,
+      "stddev_luma": 49.4415,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.089758,
+      "name_region_ink": 0.03795
+    },
+    {
+      "page": 33,
+      "mean_luma": 237.8168,
+      "stddev_luma": 58.4715,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.081286,
+      "name_region_ink": 0.057566
+    },
+    {
+      "page": 34,
+      "mean_luma": 238.0255,
+      "stddev_luma": 57.4322,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.074357,
+      "name_region_ink": 0.060127
+    },
+    {
+      "page": 35,
+      "mean_luma": 234.1743,
+      "stddev_luma": 63.4441,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.092348,
+      "name_region_ink": 0.089966
+    },
+    {
+      "page": 36,
+      "mean_luma": 231.082,
+      "stddev_luma": 68.9746,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.095525,
+      "name_region_ink": 0.123413
+    },
+    {
+      "page": 37,
+      "mean_luma": 237.9205,
+      "stddev_luma": 57.8336,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.085281,
+      "name_region_ink": 0.074675
+    },
+    {
+      "page": 38,
+      "mean_luma": 235.6952,
+      "stddev_luma": 60.0885,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.099005,
+      "name_region_ink": 0.045694
+    },
+    {
+      "page": 39,
+      "mean_luma": 241.9096,
+      "stddev_luma": 51.8436,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.078513,
+      "name_region_ink": 0.049559
+    },
+    {
+      "page": 40,
+      "mean_luma": 236.1079,
+      "stddev_luma": 60.7084,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.070176,
+      "name_region_ink": 0.08488
+    },
+    {
+      "page": 41,
+      "mean_luma": 241.6759,
+      "stddev_luma": 51.0257,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.079502,
+      "name_region_ink": 0.063806
+    },
+    {
+      "page": 42,
+      "mean_luma": 239.8053,
+      "stddev_luma": 55.5061,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.085166,
+      "name_region_ink": 0.068014
+    },
+    {
+      "page": 43,
+      "mean_luma": 238.7505,
+      "stddev_luma": 58.0735,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.074633,
+      "name_region_ink": 0.060414
+    },
+    {
+      "page": 44,
+      "mean_luma": 241.5054,
+      "stddev_luma": 53.1079,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.090322,
+      "name_region_ink": 0.05201
+    },
+    {
+      "page": 45,
+      "mean_luma": 235.6468,
+      "stddev_luma": 62.6519,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.076098,
+      "name_region_ink": 0.105025
+    },
+    {
+      "page": 46,
+      "mean_luma": 237.1849,
+      "stddev_luma": 59.9858,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.074148,
+      "name_region_ink": 0.115573
+    },
+    {
+      "page": 47,
+      "mean_luma": 238.851,
+      "stddev_luma": 56.4469,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.077858,
+      "name_region_ink": 0.020858
+    },
+    {
+      "page": 48,
+      "mean_luma": 238.7789,
+      "stddev_luma": 57.6958,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.074009,
+      "name_region_ink": 0.069822
+    },
+    {
+      "page": 49,
+      "mean_luma": 240.63,
+      "stddev_luma": 53.0342,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.079677,
+      "name_region_ink": 0.110815
+    },
+    {
+      "page": 50,
+      "mean_luma": 234.0091,
+      "stddev_luma": 62.8183,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.094589,
+      "name_region_ink": 0.114377
+    },
+    {
+      "page": 51,
+      "mean_luma": 236.4526,
+      "stddev_luma": 59.3081,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.070446,
+      "name_region_ink": 0.098701
+    },
+    {
+      "page": 52,
+      "mean_luma": 230.8014,
+      "stddev_luma": 70.0972,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.074802,
+      "name_region_ink": 0.12331
+    },
+    {
+      "page": 53,
+      "mean_luma": 236.6708,
+      "stddev_luma": 60.2837,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.060868,
+      "name_region_ink": 0.097364
+    },
+    {
+      "page": 54,
+      "mean_luma": 241.3738,
+      "stddev_luma": 53.1254,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.062626,
+      "name_region_ink": 0.055155
+    },
+    {
+      "page": 55,
+      "mean_luma": 239.6087,
+      "stddev_luma": 57.4049,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.097948,
+      "name_region_ink": 0.041123
+    },
+    {
+      "page": 56,
+      "mean_luma": 240.8901,
+      "stddev_luma": 53.44,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.081016,
+      "name_region_ink": 0.041288
+    },
+    {
+      "page": 57,
+      "mean_luma": 233.9924,
+      "stddev_luma": 64.329,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.101391,
+      "name_region_ink": 0.09322
+    },
+    {
+      "page": 58,
+      "mean_luma": 236.4622,
+      "stddev_luma": 61.5334,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.091206,
+      "name_region_ink": 0.091889
+    },
+    {
+      "page": 59,
+      "mean_luma": 255.0,
+      "stddev_luma": 0.0,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.0,
+      "name_region_ink": 0.0
+    },
+    {
+      "page": 60,
+      "mean_luma": 255.0,
+      "stddev_luma": 0.0,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.0,
+      "name_region_ink": 0.0
+    },
+    {
+      "page": 61,
+      "mean_luma": 255.0,
+      "stddev_luma": 0.0,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.0,
+      "name_region_ink": 0.0
+    },
+    {
+      "page": 62,
+      "mean_luma": 255.0,
+      "stddev_luma": 0.0,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.0,
+      "name_region_ink": 0.0
+    },
+    {
+      "page": 63,
+      "mean_luma": 255.0,
+      "stddev_luma": 0.0,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.0,
+      "name_region_ink": 0.0
+    },
+    {
+      "page": 64,
+      "mean_luma": 253.3863,
+      "stddev_luma": 18.4408,
+      "chroma_mean_max": 0.0,
+      "label_region_ink": 0.0,
+      "name_region_ink": 0.0
+    }
+  ],
+  "contact_sheets": [
+    "books\\book_005\\qa\\contact_sheets\\pages_001_016.png",
+    "books\\book_005\\qa\\contact_sheets\\pages_017_032.png",
+    "books\\book_005\\qa\\contact_sheets\\pages_033_048.png",
+    "books\\book_005\\qa\\contact_sheets\\pages_049_064.png"
+  ],
+  "visual_qc": "See qa/page_by_page_visual_qc.md"
+}
